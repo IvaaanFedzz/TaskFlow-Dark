@@ -14,18 +14,22 @@ node  -v
 npm -v
 
 Crear backend con Express + Mongoose
+
 npm install express mongoose cors dotenv
+---------------------------------------
 npm install --save-dev nodemon concurrently
 
 Y creamos el .env  con la URL de Mongo atlas o local ( atlas en nuestro caso)
+
 Ahi como veis en los archivos os he puesto uno de ejemplo para ver la url que os tiene que devolver
 y la cambiariamos por la nuestra y el puerto si deseamos o si estamos trabajando con ese puerto ya.
 
 Crear frontend con React (Vite)
+----------
 npm create vite@latest frontend -- --template react
 cd frontend
 npm install
-
+----------
 Ejecutar todo junto
 Vuelve a la raíz y agrega scripts en package.json:
 "scripts": {
@@ -42,8 +46,7 @@ Agregar nuevos mensajes que se guardan en la base de datos
 
 
 
+Y de ahi quedaria nuestra backend y frontend lista!
 
-
-
-
+<img width="1719" height="988" alt="Captura de pantalla 2025-11-03 200826" src="https://github.com/user-attachments/assets/7462df82-3e93-425f-8ed0-848dbf80dcce" />
 
