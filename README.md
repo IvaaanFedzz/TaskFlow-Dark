@@ -30,21 +30,8 @@ npm create vite@latest frontend -- --template react
 cd frontend
 npm install
 ----------
-Ejecutar todo junto
-Vuelve a la raíz y agrega scripts en package.json:
-"scripts": {
-  "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
-  "dev:backend": "nodemon backend/index.js",
-  "dev:frontend": "cd frontend && npm run dev"
-}
-
 
 Y ejecutamos npm run dev en backend y en frontend ( cd backend , cd frontend los dos npm run dev)
-Abrir React (http://localhost:5173)
-Ver los mensajes desde MongoDB
-Agregar nuevos mensajes que se guardan en la base de datos
-
-
 
 Y de ahi quedaria nuestra backend y frontend lista!
 
