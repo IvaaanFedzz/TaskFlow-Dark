@@ -8,7 +8,9 @@ Lo primero seria instalar MongoDb local y node.js en nuestro sistema para poder 
 <img width="1719" height="985" alt="Captura de pantalla 2025-11-03 201408" src="https://github.com/user-attachments/assets/b4805bcd-d54c-431a-8e63-7df6863018f9" />
 -------------
 <img width="1719" height="990" alt="Captura de pantalla 2025-11-03 201045" src="https://github.com/user-attachments/assets/e56191bb-e845-40bb-9b03-4c0812fd53e2" />
-------------
+
+
+
 
 
 
