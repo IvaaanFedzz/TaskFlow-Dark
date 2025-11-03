@@ -6,4 +6,8 @@ https://nodejs.org/es
 https://www.mongodb.com/docs/manual/installation/
 --------------
 
-Luego de eso seria sencillo 
+Luego de eso seria  rellenar nuestro archivo .env ( tienes uno de ejemplo en los archivos del codigo)
+Y de ahi pondriamos la url que mongodb nos proporciona.
+-------
+
+La aplicación se ejecutará por defecto en http://localhost:5173 y se comunicará con el backend en http://localhost:5000.
