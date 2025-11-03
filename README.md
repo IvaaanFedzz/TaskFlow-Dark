@@ -1,5 +1,5 @@
 
-,
+
 TaskFlow es una aplicación web full-stack desarrollada para la gestión de tareas y proyectos. Su objetivo es ofrecer una experiencia moderna, fluida y visualmente atractiva, combinando un diseño oscuro minimalista.
 -------------
 
